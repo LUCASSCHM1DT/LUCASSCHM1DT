@@ -3,6 +3,7 @@
 - 🌱 estou aprendendo atualmente sobre programaçoes na web
 - 💞️ busco colaborar na area de programaçoes em geral, no que estiver na area dos meus conhecimentos
 - 📫 pode entrar em contato por: schmidt.ferreira@escola.pr.gov.br
+- [
 
 <!---
 LUCASSCHM1DT/LUCASSCHM1DT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
